@@ -1,0 +1,6 @@
+{
+  "name": "Emichan",
+  "description": "Trang web học tập JLPT và BJT với giao diện hoa anh đào thanh lịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
